@@ -16,6 +16,7 @@ module LemonWay
       GetMoneyOutTransDetails
       GetPaymentDetails
       GetWalletDetails
+      GetWalletTransHistory
       MoneyIn
       MoneyIn3DConfirm
       MoneyIn3DInit
