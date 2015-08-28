@@ -22,12 +22,15 @@ module LemonWay
       MoneyIn3DInit
       MoneyInWebInit
       MoneyInWithCardId
+      MoneyInSddInit
       MoneyOut
       RefundMoneyIn
       RegisterCard
       RegisterIBAN
       RegisterWallet
+      RegisterSddMandate
       SendPayment
+      SignDocumentInit
       UnregisterCard
       UpdateWalletDetails
       UpdateWalletStatus
