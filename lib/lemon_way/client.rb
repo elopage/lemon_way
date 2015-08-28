@@ -13,6 +13,7 @@ module LemonWay
       GetKycStatus
       GetMoneyInIBANDetails
       GetMoneyInTransDetails
+      GetMoneyInSdd
       GetMoneyOutTransDetails
       GetPaymentDetails
       GetWalletDetails
