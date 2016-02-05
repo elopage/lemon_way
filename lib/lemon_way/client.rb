@@ -36,6 +36,7 @@ module LemonWay
       UpdateWalletDetails
       UpdateWalletStatus
       UploadFile
+      MoneyInSofortInit
     )
 
     attr_reader :uri, :xml_mini_backend, :entity_expansion_text_limit, :options
