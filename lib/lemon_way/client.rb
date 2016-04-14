@@ -24,6 +24,7 @@ module LemonWay
       MoneyInWebInit
       MoneyInWithCardId
       MoneyInSddInit
+      MoneyInValidate
       MoneyOut
       RefundMoneyIn
       RegisterCard
