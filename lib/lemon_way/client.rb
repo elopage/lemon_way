@@ -95,7 +95,7 @@ module LemonWay
       end
 
       if response.has_key?("e")
-        code = [response["e"]["code"], response["e"]["INT_MSG"]].compact.join(', ')  
+        code = [response["e"]["code"], response["e"]["int_msg"]].compact.join(', ')
         raise Error, [code, response["e"]["msg"]].join(' : ')
       elsif block_given?
         yield(response)
