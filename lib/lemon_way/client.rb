@@ -21,6 +21,7 @@ module LemonWay
       MoneyIn
       MoneyIn3DConfirm
       MoneyIn3DInit
+      MoneyIn3DAuthenticate
       MoneyInWebInit
       MoneyInWithCardId
       MoneyInSddInit
